@@ -36,6 +36,34 @@
 ## Instalación y Configuración
 
 1. **Clonar el repositorio**:
+
    ```bash
-   git clone https://github.com/usuario/de-patria-a-patria.git
+   git clone https://github.com/MarcoTripleTen/de-patria-a-patria.git
    ```
+
+2. **Abrir el proyecto en GitHub Pages**: Puedes visualizar el sitio en vivo accediendo a https://marcotripleten.github.io/web_project_homeland.
+
+3. **Abrir localmente en el navegador**: Si prefieres verlo localmente, simplemente abre el archivo index.html en tu navegador preferido.
+
+### Acceso al Sitio
+
+Puedes visualizar el sitio en vivo a través de GitHub Pages.
+
+### Notas de Desarrollo
+
+**Puntos de Ruptura (Media Queries)**
+El diseño está preparado para los siguientes puntos de ruptura:
+
+- 320px a 544px: Dispositivos pequeños.
+- 544px a 1024px: Tablets y dispositivos horizontales.
+- 1024px y superiores: Laptops y desktops.
+
+## Recursos
+
+**Cita destacada**: “Todo ser humano es un artista...” — Joseph Beuys.
+**Imagen principal**: Una ciudad costera en blanco y negro para conectar visualmente con la narrativa.
+
+## Créditos
+
+**Desarrollado por**: Marco Pabon
+**Año**: 2024
