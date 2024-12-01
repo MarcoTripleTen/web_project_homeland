@@ -1,5 +1,5 @@
 @media (min-width: 1024px) {
-  .column__description-lead {
+  .content__column_description_lead {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -8,7 +8,7 @@
     margin: auto;
   }
 
-  .content__column-title_lead {
+  .content__column_title_lead {
     font-size: 96px;
     font-weight: 900;
     line-height: 1.05;
@@ -34,7 +34,7 @@
     padding-left: 148px;
   }
 
-  .column__description-secondary {
+  .content__column_description_secondary {
     display: flex;
     flex-direction: column;
     max-width: calc(100% - 450px);
@@ -42,21 +42,21 @@
     padding: 92px 302px 132px 148px;
   }
 
-  .content__column-title_secondary {
+  .content__column_title_secondary {
     font-size: 54px;
     font-weight: 900;
     line-height: 1.07;
     margin-bottom: 40px;
   }
 
-  .column__quote {
+  .content__column-quote {
     font-size: 24px;
     font-weight: 400;
     line-height: 1.4;
     margin-bottom: 10px;
   }
 
-  .column__quote-cite {
+  .content__column-cite {
     font-size: 24px;
     font-weight: 400;
     line-height: 1.4;
@@ -64,7 +64,7 @@
     margin-bottom: 32px;
   }
 
-  .column__text {
+  .content__column-text {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.6;
@@ -72,7 +72,7 @@
 }
 
 @media (min-width: 544px) and (max-width: 1024px) {
-  .column__description-lead {
+  .content__column_description_lead {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -81,7 +81,7 @@
     margin: auto;
   }
 
-  .content__column-title_lead {
+  .content__column_title_lead {
     font-size: 75px;
     font-weight: 900;
     line-height: 1.05;
@@ -103,7 +103,7 @@
     height: 480px;
   }
 
-  .column__description-secondary {
+  .content__column_description_secondary {
     display: flex;
     flex-direction: column;
     max-width: calc(100% - 48px);
@@ -111,20 +111,20 @@
     padding-left: 24px;
   }
 
-  .content__column-title_secondary {
+  .content__column_title_secondary {
     font-size: 45px;
     font-weight: 900;
     line-height: 1.09;
     margin: 90px 0 50px;
   }
 
-  .column__quote {
+  .content__column-quote {
     font-size: 24px;
     font-weight: 400;
     line-height: 1.4;
   }
 
-  .column__quote-cite {
+  .content__column-cite {
     font-size: 24px;
     font-weight: 400;
     line-height: 1.4;
@@ -132,7 +132,7 @@
     margin-bottom: 32px;
   }
 
-  .column__text {
+  .content__column-text {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.6;
@@ -141,7 +141,7 @@
 }
 
 @media (min-width: 320px) and (max-width: 544px) {
-  .column__description-lead {
+  .content__column_description_lead {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -150,7 +150,7 @@
     margin: auto;
   }
 
-  .content__column-title_lead {
+  .content__column_title_lead {
     font-size: 40px;
     font-weight: 900;
     line-height: 1.1;
@@ -172,7 +172,7 @@
     height: 200px;
   }
 
-  .column__description-secondary {
+  .content__column_description_secondary {
     display: flex;
     flex-direction: column;
     max-width: calc(100% - 32px);
@@ -180,21 +180,21 @@
     padding-left: 16px;
   }
 
-  .content__column-title_secondary {
+  .content__column_title_secondary {
     font-size: 32px;
     font-weight: 900;
     line-height: 1.09;
     margin: 64px 0 40px;
   }
 
-  .column__quote {
+  .content__column-quote {
     font-size: 24px;
     font-weight: 400;
     line-height: 1.25;
     margin-bottom: 10px;
   }
 
-  .column__quote-cite {
+  .content__column-cite {
     font-size: 24px;
     font-weight: 400;
     line-height: 1.42;
@@ -202,7 +202,7 @@
     margin-bottom: 32px;
   }
 
-  .column__text {
+  .content__column-text {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.63;
