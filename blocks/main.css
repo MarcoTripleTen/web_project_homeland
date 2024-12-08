@@ -172,11 +172,6 @@
       rgba(0, 58, 123, 0.25) 99.98%
     );
   }
-
-  .content__places-link {
-    color: inherit;
-    text-decoration: none;
-  }
 }
 
 @media screen and (min-width: 544px) and (max-width: 1024px) {
