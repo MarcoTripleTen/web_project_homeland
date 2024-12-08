@@ -122,7 +122,7 @@
     opacity: 0.5;
   }
 
-  .content__places-artists {
+  .content__places-artists-container {
     grid-area: artists;
     text-align: left;
     align-self: end;
@@ -297,13 +297,13 @@
     opacity: 0.5;
   }
 
-  .content__places-artists {
+  .content__places-artists-container {
     grid-area: artists;
     text-align: left;
     align-self: end;
   }
 
-  .content__places-artists__title {
+  .content__places-artists-title {
     color: #aaaaaa;
     font-size: 12px;
     font-weight: 400;
@@ -311,7 +311,7 @@
     letter-spacing: 0.12em;
   }
 
-  .content__places-artists__names {
+  .content__places-artists-names {
     font-size: 18px;
     font-weight: 400;
     line-height: 1.22;
@@ -479,14 +479,14 @@
     opacity: 0.5;
   }
 
-  .content__places-artists {
+  .content__places-artists-container {
     grid-area: artists;
     text-align: left;
     align-self: end;
     padding: 0px 16px 0px 16px;
   }
 
-  .content__places-artists__title {
+  .content__places-artists-title {
     color: #aaaaaa;
     font-size: 12px;
     font-weight: 400;
@@ -494,7 +494,7 @@
     letter-spacing: 0.12em;
   }
 
-  .content__places-artists__names {
+  .content__places-artists-names {
     font-size: 18px;
     font-weight: 400;
     line-height: 1.22;
