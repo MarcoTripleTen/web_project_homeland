@@ -128,7 +128,7 @@
     align-self: end;
   }
 
-  .content__places-artists__title {
+  .content__places-artists-title {
     color: #aaaaaa;
     font-size: 12px;
     font-weight: 400;
@@ -136,7 +136,7 @@
     letter-spacing: 0.12em;
   }
 
-  .content__places-artists__names {
+  .content__places-artists-names {
     font-size: 18px;
     font-weight: 400;
     line-height: 1.22;
